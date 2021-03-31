@@ -6,7 +6,7 @@
     <properties>
         <java.version>8</java.version>
 
-        <google.guava.version>28.2-jre</google.guava.version>
+        <google.guava.version>29.0-jre</google.guava.version>
         <lombok.version>1.18.12</lombok.version>
     </properties>
 
